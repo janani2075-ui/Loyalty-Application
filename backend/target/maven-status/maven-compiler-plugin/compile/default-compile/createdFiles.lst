@@ -1,0 +1,5 @@
+com\loyaltyapp\repository\LoyaltyRepository.class
+com\loyaltyapp\RetailApplication.class
+com\loyaltyapp\model\LoyaltyCustomer.class
+com\loyaltyapp\controller\LoyaltyController.class
+com\loyaltyapp\service\LoyaltyService.class
